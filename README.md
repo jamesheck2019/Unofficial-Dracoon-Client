@@ -13,4 +13,7 @@
 	<li>manage data rooms (create, edit, delete)</li>
 </ul>
 
+* Download:
+[https://github.com/jamesheck2019/Unofficial-Dracoon-Client/releases](https://github.com/jamesheck2019/Unofficial-Dracoon-Client/releases)
+
 ![https://i.postimg.cc/HsZ39g2p/ure-Wiz121.png](https://i.postimg.cc/HsZ39g2p/ure-Wiz121.png)
