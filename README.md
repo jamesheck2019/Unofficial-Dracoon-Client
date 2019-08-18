@@ -11,6 +11,7 @@
 * manage data rooms (create, edit, delete)
 * Send files from dracoon account to [Supported Cloud Services](https://github.com/loudKode/Easy-Cloud-Integration/wiki/Supported-Cloud-Services) with ability to specify transferred [video resolution](https://i.postimg.cc/HsVnV1tC/ure-Wiz660.png)
 
+***
 
 * `Download`
 [https://github.com/jamesheck2019/Unofficial-Dracoon-Client/releases](https://github.com/jamesheck2019/Unofficial-Dracoon-Client/releases)
